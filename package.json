@@ -1,0 +1,27 @@
+{
+  "name": "messages",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@blueprintjs/core": "3.14.1",
+    "@omarzion/validation": "2.3.2",
+    "gun": "0.9.9999991",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-scripts": "2.0.3",
+    "react-time-ago": "5.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "16.8.7",
+    "@types/react-dom": "16.8.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
